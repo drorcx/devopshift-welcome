@@ -10,7 +10,7 @@ details:
 
 ratings:
   image: docker.io/istio/examples-bookinfo-ratings-v1
-  replicaCount: 1
+  replicaCount: 3
 
 reviews:
   image: docker.io/istio/examples-bookinfo-reviews-v1
